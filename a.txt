@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modification made by dev 2 in a file
+=======
+modifrication made by dev 1.
+>>>>>>> 3291d0a4df799d07abff2c604811dfa25cf7a0e7
