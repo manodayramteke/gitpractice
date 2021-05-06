@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes made by dev 1 on 6 may after dev 2
+=======
+changes made by dev 2 on 06 may
+>>>>>>> bfc652c5b56851e1e5851d5e0c6717667a44d751
